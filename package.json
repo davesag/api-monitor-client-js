@@ -1,0 +1,20 @@
+{
+  "name": "@davesag/api-monitor-client",
+  "version": "1.0.0",
+  "description": "A client interacts with the api-monitor service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-monitor",
+    "api",
+    "monitor",
+    "client",
+    "redux",
+    "action-consumer",
+    "action-emitter"
+  ],
+  "author": "Dave Sag <davesag@gmail.com>",
+  "license": "UNLICENSED"
+}
